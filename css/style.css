@@ -1,0 +1,89 @@
+* { margin: 0%; padding: 0%; }
+header { width: 90%; margin-left: 5%; overflow: hidden; margin-top: 50px; }
+.logo { width: 20%; float: left; }
+nav { width: 50%; float: right; overflow: hidden; }
+nav ul { list-style: none; float: right; overflow: hidden; }
+nav ul li { float: left; margin-left: 30px; }
+nav ul li a { text-decoration: none; color: black; }
+.content { width: 90%; margin-left: 5%; }
+.image { text-align: center; }
+.image img { width: 100%; margin-bottom: 60px; }
+.title-content { width: 70%; margin-left: 15%; }
+.title-content h5 { margin-bottom: 30px; color: rgb(223, 223, 223); }
+.title-content h1 { margin-bottom: 30px; font-size: 27px; color: darkgrey; }
+.title-content p { color: rgb(193, 193, 193); margin-bottom: 35px; }
+.service-one { width: 70%; margin-left: 15%; overflow: hidden; }
+.left-content { width: 40%; float: left; }
+.left-content img { margin-bottom: 22px; }
+.left-content h6 { margin-bottom: 16px; color: rgb(213, 212, 212); }
+.left-content h1 { margin-bottom: 20px; color: darkgrey; }
+.left-content p { color: rgb(133, 130, 130); margin-bottom: 70px; }
+.right-content { width: 40%; float: right; margin-right: 5%; }
+.right-content img { margin-bottom: 22px; }
+.right-content h6 { margin-bottom: 16px; color: rgb(227, 226, 226); }
+.right-content h1 { margin-bottom: 20px; color: rgb(185, 185, 185); }
+.right-content p { color: rgb(171, 171, 171); margin-bottom: 70px; }
+.center-type {text-align: center;background: rgb(241, 241, 241);margin-bottom: 60px;}
+.center-type h1 { font-size: 35px; margin: 25px 0px; padding: 51px; }
+.center-type img {margin: 53px 0px;}
+* { margin: 0%; padding: 0%; }
+header { width: 90%; margin-left: 5%; overflow: hidden; margin-top: 50px; }
+.logo { width: 20%; float: left; }
+nav { width: 50%; float: right; overflow: hidden; }
+nav ul { list-style: none; float: right; overflow: hidden; }
+nav ul li { float: left; margin-left: 30px; }
+nav ul li a { text-decoration: none; color: black; }
+.content { width: 90%; margin-left: 5%; }
+.image { text-align: center; }
+.image img { width: 100%; margin-bottom: 60px; }
+.title-content { width: 70%; margin-left: 15%; }
+.title-content h5 { margin-bottom: 30px; color: rgb(223, 223, 223); }
+.title-content h1 { margin-bottom: 30px; font-size: 27px; color: darkgrey; }
+.title-content p { color: rgb(193, 193, 193); margin-bottom: 35px; }
+.service-one { width: 70%; margin-left: 15%; overflow: hidden; }
+.left-content { width: 40%; float: left; }
+.left-content img { margin-bottom: 22px; }
+.left-content h6 { margin-bottom: 16px; color: rgb(213, 212, 212); }
+.left-content h1 { margin-bottom: 20px; color: darkgrey; }
+.left-content p { color: rgb(133, 130, 130); margin-bottom: 70px; }
+.right-content { width: 40%; float: right; margin-right: 5%; }
+.right-content img { margin-bottom: 22px; }
+.right-content h6 { margin-bottom: 16px; color: rgb(227, 226, 226); }
+.right-content h1 { margin-bottom: 20px; color: rgb(185, 185, 185); }
+.right-content p { color: rgb(171, 171, 171); margin-bottom: 70px; }
+.center-type {text-align: center;background: rgb(241, 241, 241);margin-bottom: 60px;}
+.center-type h1 { font-size: 35px; margin: 25px 0px; padding: 51px; }
+.center-type img {margin: 53px 0px;}
+.btn{
+
+text-align: center;
+
+margin-top: 60px;
+
+margin-bottom: 101px;
+}
+.btn button{padding: 15px 18px;}
+footer{
+
+height: 80px;
+
+overflow: hidden;
+
+background: #e9e5e5;
+}
+footer h3{
+
+float: left;
+
+margin-left: 10%;
+
+margin-top: 30px;
+}
+footer img{
+
+float: right;
+
+margin-right: 5%;
+
+margin-top: 30px;
+}
